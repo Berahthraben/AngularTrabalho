@@ -1,0 +1,13 @@
+#canvas-topo {
+	/*background-image: linear-gradient(to right, #152338, #6c5bc2);*/
+	/*border-radius: 10px;*/
+	margin-top: -15px;
+	display: block;
+	margin-left: -20px;
+	height: 100px;
+	width: 120%;
+}
+.borda-geral {
+	border-width: 3px !important;
+	border-color: #000000 !important;
+}
